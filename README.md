@@ -1,5 +1,7 @@
 # PyreCrawl Skills
 
+> **Version:** 1.0.0
+
 Downloadable workflow skills for AI agents using [PyreCrawl](https://github.com/SanggonBoy/PyreCrawl) MCP tools.
 
 ## What are skills?

@@ -1,5 +1,7 @@
 # PyreCrawl Research Skill
 
+> **Version:** 1.0.0 | **Last updated:** 2026-09-19 | **Requires:** [PyreCrawl](https://github.com/SanggonBoy/PyreCrawl) MCP tools
+
 You have access to PyreCrawl MCP tools for web scraping, crawling, and research. This skill tells you HOW to use those tools effectively. Follow this protocol for ALL research tasks.
 
 ## When to Use This Skill
